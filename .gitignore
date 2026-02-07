@@ -1,0 +1,18 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+.vscode/.browse.cxxrc
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# 編譯與設定產物
+build
+sdkconfig
+sdkconfig.*
+sdkconfig.old
+
+# 作業系統
+.DS_Store
+Thumbs.db

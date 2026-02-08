@@ -1,4 +1,5 @@
 {
   "platformio-ide.useBuiltinPIOCore": true,
-  "platformio-ide.autoRebuildAutocompleteIndex": true
+  "platformio-ide.autoRebuildAutocompleteIndex": true,
+  "idf.currentSetup": "C:\\esp\\v5.5.2\\esp-idf"
 }
